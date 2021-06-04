@@ -21,11 +21,7 @@
 
 ## Technologies we used so far
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeforlife200&layout=compact&theme=merko)](https://github.com/codeforlife200/github-readme-stats)
-
-## Github stats
-
-![Code For Life stats](https://github-readme-stats.vercel.app/api?username=codeforlife200&show_icons=true&theme=merko)
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeforlife200&layout=compact&theme=merko)](https://github.com/codeforlife200/github-readme-stats) ![Code For Life stats](https://github-readme-stats.vercel.app/api?username=codeforlife200&show_icons=true&theme=merko)</span>
 
 ## Visitors Count
 
