@@ -19,9 +19,9 @@
 <a href="https://www.instagram.com/__codeforlife/"><img src="https://img.icons8.com/dusk/60/000000/instagram-new.png"/></a>
 <a href="https://www.buymeacoffee.com/harshmishra"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" width="120px" height="60px"></a>
 
-## Technologies we used so far
+## Something About Us
 
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeforlife200&layout=compact&theme=merko)](https://github.com/codeforlife200/github-readme-stats) ![Code For Life stats](https://github-readme-stats.vercel.app/api?username=codeforlife200&show_icons=true&theme=merko)</span>
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeforlife200&layout=compact&theme=merko)](https://github.com/codeforlife200/github-readme-stats)&nsbp;&nsbp;&nsbp;&nsbp;&nsbp; ![Code For Life stats](https://github-readme-stats.vercel.app/api?username=codeforlife200&show_icons=true&theme=merko)</span>
 
 ## Visitors Count
 
