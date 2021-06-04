@@ -21,14 +21,12 @@
 <a href="rebrand.ly/codeforlife"><img src="https://img.icons8.com/office/60/000000/youtube.png"/></a>
 <a href="https://www.linkedin.com/company/code-for-life/"><img src="https://img.icons8.com/doodle/60/000000/linkedin--v2.png"/></a>
 <a href="https://www.instagram.com/__codeforlife/"><img src="https://img.icons8.com/dusk/60/000000/instagram-new.png"/></a>
-<a href="https://www.buymeacoffee.com/harshmishra"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg"></a>
+<a href="https://www.buymeacoffee.com/harshmishra"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" width="100px" height="70px"></a>
 <br>
 
 ## Technologies we used so far
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeforlife200&layout=compact&theme=merko)](https://github.com/codeforlife200/github-readme-stats)
-
-<br>
 
 ## Github stats
 
