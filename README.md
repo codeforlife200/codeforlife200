@@ -6,18 +6,18 @@
 
 #### - 💯Source Code for every video that we make
 
-### - 🚀Our open source contribution
+#### - 🚀Our open source contribution
 
-### - 💻Resources that can help you to be a good developer
+#### - 💻Resources that can help you to be a good developer
 
-### - 🎉If you find anything useful frop a 🌟 to the repository
+#### - 🎉If you find anything useful frop a 🌟 to the repository
 
 ## How to find us ?
 
 <a href="rebrand.ly/codeforlife"><img src="https://img.icons8.com/office/60/000000/youtube.png"/></a>
 <a href="https://www.linkedin.com/company/code-for-life/"><img src="https://img.icons8.com/doodle/60/000000/linkedin--v2.png"/></a>
 <a href="https://www.instagram.com/__codeforlife/"><img src="https://img.icons8.com/dusk/60/000000/instagram-new.png"/></a>
-<a href="https://www.buymeacoffee.com/harshmishra"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" width="120px" height="80px"></a>
+<a href="https://www.buymeacoffee.com/harshmishra"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" width="120px" height="60px"></a>
 
 ## Technologies we used so far
 
