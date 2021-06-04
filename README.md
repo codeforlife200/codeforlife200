@@ -10,7 +10,7 @@
 
 #### - 💻Resources that can help you to be a good developer
 
-#### - 🎉If you find anything useful frop a 🌟 to the repository
+#### - 🎉If you find anything useful drop a 🌟 to the repository
 
 ## How to find us ?
 
