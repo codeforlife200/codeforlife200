@@ -21,7 +21,7 @@
 
 ## Something About Us
 
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeforlife200&layout=compact&theme=merko)](https://github.com/codeforlife200/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Code For Life stats](https://github-readme-stats.vercel.app/api?username=codeforlife200&show_icons=true&theme=merko)</span>
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeforlife200&layout=compact&theme=merko)](https://github.com/codeforlife200/github-readme-stats)&nbsp;&nbsp;&nbsp; ![Code For Life stats](https://github-readme-stats.vercel.app/api?username=codeforlife200&show_icons=true&theme=merko&layout=compact)</span>
 
 ## Visitors Count
 
